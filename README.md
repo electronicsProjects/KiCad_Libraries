@@ -5,7 +5,7 @@ Librerias creadas y editadas por MrChunckuee a conveniencia propia, si deseas sa
 
 ***
 ### Contenido de las librerias:
-**E&R_Microchip.lbr**
+**E&R_Microchip**
 - PIC18F25K22
 
 ***
