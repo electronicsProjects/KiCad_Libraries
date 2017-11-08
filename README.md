@@ -1,7 +1,7 @@
 # KiCad
 ***
 
-Librerias creadas y editadas por MrChunckuee a conveniencia propia, si deseas saber mas a detalle te invito a visitar [**E&R by MrChuckuee**](http://mrchunckuee.blogspot.mx/p/cadsoft-eagle.html) 
+Librerias creadas y editadas por MrChunckuee a conveniencia propia, si deseas saber mas a detalle te invito a visitar [**E&R by MrChuckuee**](https://mrchunckuee.blogspot.com/p/kicad.html) 
 
 ***
 ### Contenido de las librerias:
