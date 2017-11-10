@@ -8,6 +8,9 @@ Librerias creadas y editadas por MrChunckuee a conveniencia propia, si deseas sa
 **E&R_Microchip**
 - PIC18F25K22
 
+**E&R_Modules**
+- Bluetooth HC-05
+
 ***
 Puedes seguirme en:
 - [Blogspot](http://mrchunckuee.blogspot.com)
