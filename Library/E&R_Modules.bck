@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP HC-05
-D Modilo bluetoth HC-05
+D Modulo bluetooth HC-05
 K hc-05
 $ENDCMP
 #
