@@ -5,11 +5,17 @@ Librerias creadas y editadas por MrChunckuee a conveniencia propia, si deseas sa
 
 ***
 ### Contenido de las librerias:
+**E&R_IntegratedCircuits**
+- IR4427
+
 **E&R_Microchip**
 - PIC18F25K22
 
 **E&R_Modules**
 - Bluetooth HC-05
+
+**E&R_Transistors**
+- IPD600N25N3G
 
 ***
 Puedes seguirme en:
