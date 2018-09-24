@@ -6,7 +6,7 @@ Librerias creadas y editadas por MrChunckuee a conveniencia propia, si deseas sa
 ***
 ### Contenido de las librerias:
 **EYR_BoosterPacks**
-- EK-TM4C123GXL LauchPack 
+- EK-TM4C123GXL LaunchPack 
 
 **EYR_IntegratedCircuits**
 - IR4427
