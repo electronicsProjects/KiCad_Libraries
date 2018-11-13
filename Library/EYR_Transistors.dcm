@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP IPD600N25N3G
-D 60V Vds, 0.115A Id, N-channel MOSFET, SOT-23
-K N-Channel Switching MOSFET
-F https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf
-$ENDCMP
-#
-#End Doc Library
