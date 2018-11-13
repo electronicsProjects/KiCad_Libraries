@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIC18F25K22
+D Microcontroladores de 8 bits - MCU 32KB Flash 1536B RAM 8B nanoWatt
+K PIC18F25K22
+F https://www.mouser.com/datasheet/2/268/40001412G-1074167.pdf
+$ENDCMP
+#
+#End Doc Library
