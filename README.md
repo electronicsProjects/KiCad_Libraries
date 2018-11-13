@@ -5,9 +5,6 @@ Librerias creadas y editadas por MrChunckuee a conveniencia propia, si deseas sa
 
 ***
 ### Contenido de las librerias:
-**EYR_BoosterPacks**
-- EK-TM4C123GXL LaunchPack 
-
 **EYR_IntegratedCircuits**
 - IR4427
 
@@ -15,9 +12,18 @@ Librerias creadas y editadas por MrChunckuee a conveniencia propia, si deseas sa
 - PIC18F25K22
 
 **EYR_Modules**
+- EK-TM4C123GXL Tica C LaunchPack 
 - Bluetooth HC-05
 
+**EYR_Regulators**
+- uA7805
+- uA7833
+
+**EYR_Switches**
+- Rotatory Encoder Switch
+
 **EYR_Transistors**
+- FDS4435
 - IPD600N25N3G
 
 ***
