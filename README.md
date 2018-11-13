@@ -12,7 +12,7 @@ Librerias creadas y editadas por MrChunckuee a conveniencia propia, si deseas sa
 - PIC18F25K22
 
 **EYR_Modules**
-- EK-TM4C123GXL Tica C LaunchPack 
+- EK-TM4C123GXL Tiva C LaunchPack 
 - Bluetooth HC-05
 
 **EYR_Regulators**
