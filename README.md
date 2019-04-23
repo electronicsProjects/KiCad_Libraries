@@ -5,7 +5,7 @@ Librerias creadas y editadas por MrChunckuee a conveniencia propia, si deseas sa
 
 ***
 ### Contenido de las librerias:
-**EYR_Conector Simbolos**
+**EYR_Conector**
 - Terminal atornillable 2, 3 y 4 pines
 - Jack de alimentacion
 
