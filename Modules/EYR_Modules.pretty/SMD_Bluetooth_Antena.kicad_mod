@@ -1,4 +1,4 @@
-(module SMD_Bluetooth_Antena (layer F.Cu) (tedit 5A050B8D)
+(module SMD_Bluetooth_Antena (layer F.Cu) (tedit 5CBE8D25)
   (fp_text reference REF** (at -4.5 -19) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -67,4 +67,9 @@
   (pad 32 smd rect (at 6.5 -6) (size 2 1) (layers F.Cu F.Paste F.Mask))
   (pad 33 smd rect (at 6.5 -7.5) (size 2 1) (layers F.Cu F.Paste F.Mask))
   (pad 34 smd rect (at 6.5 -9) (size 2 1) (layers F.Cu F.Paste F.Mask))
+  (model C:/GitHub/KiCad/Modules/3D/Modules/itead_hc-05.wrl
+    (offset (xyz 0 3 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
