@@ -5,6 +5,10 @@ Librerias creadas y editadas por MrChunckuee a conveniencia propia, si deseas sa
 
 ***
 ### Contenido de las librerias:
+**EYR_Conector Simbolos**
+- Terminal atornillable 2, 3 y 4 pines
+- Jack de alimentacion
+
 **EYR_IntegratedCircuits**
 - IR4427
 
@@ -12,7 +16,7 @@ Librerias creadas y editadas por MrChunckuee a conveniencia propia, si deseas sa
 - PIC18F25K22
 
 **EYR_Modules**
-- EK-TM4C123GXL Tica C LaunchPack 
+- EK-TM4C123GXL Tiva C LaunchPack 
 - Bluetooth HC-05
 
 **EYR_Regulators**
