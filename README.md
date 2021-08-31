@@ -10,7 +10,10 @@ Librerias creadas y editadas por MrChunckuee a conveniencia propia, si deseas sa
 - Jack de alimentacion
 
 **EYR_IntegratedCircuits**
-- IR4427
+| Nro. Parte| Descripcion| Package | 
+| ----- | ---- | ---- |
+| IR4427 | Driver para MOSFET | SOIC8 |
+|  |  |  |
 
 **EYR_Microchip.lbr**
 | Nro. Parte| Descripcion| Package | 
