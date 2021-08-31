@@ -12,8 +12,11 @@ Librerias creadas y editadas por MrChunckuee a conveniencia propia, si deseas sa
 **EYR_IntegratedCircuits**
 - IR4427
 
-**EYR_Microchip**
-- PIC18F25K22
+**EYR_Microchip.lbr**
+| Nro. Parte| Descripcion| Package | 
+| ----- | ---- | ---- |
+| PIC18F25K22 | Microcontrolador de 8 bits | SOIC28, SSOP28 |
+|  |  |  |
 
 **EYR_Modules**
 - EK-TM4C123GXL Tiva C LaunchPack 
