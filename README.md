@@ -5,9 +5,14 @@ Librerias creadas y editadas por MrChunckuee a conveniencia propia, si deseas sa
 
 ***
 ### Contenido de las librerias:
-**EYR_Conector**
-- Terminal atornillable 2, 3 y 4 pines
-- Jack de alimentacion
+**EYR_Conectores**
+| Nro. Parte| Descripcion| Package | 
+| ----- | ---- | ---- |
+| Jack_ Alim | Conector jack |  |
+| Screw_Terminal_01x02 | Terminal atornillable de 2 pines |  |
+| Screw_Terminal_01x03 | Terminal atornillable de 3 pines |  |
+| Screw_Terminal_01x04 | Terminal atornillable de 4 pines |  |
+|  |  |  |
 
 **EYR_IntegratedCircuits**
 | Nro. Parte| Descripcion| Package | 
