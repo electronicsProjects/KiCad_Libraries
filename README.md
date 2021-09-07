@@ -14,7 +14,7 @@ Librerias creadas y editadas por MrChunckuee a conveniencia propia, si deseas sa
 | Screw_Terminal_01x04 | Terminal atornillable de 4 pines |  |
 |  |  |  |
 
-**EYR_IntegratedCircuits**
+**EYR_CircuitosIntegrados**
 | Nro. Parte| Descripcion| Package | 
 | ----- | ---- | ---- |
 | IR4427 | Driver para MOSFET | SOIC8 |
