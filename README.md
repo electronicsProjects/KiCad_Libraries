@@ -31,15 +31,18 @@ Librerias creadas y editadas por MrChunckuee a conveniencia propia, si deseas sa
 - Bluetooth HC-05
 
 **EYR_Regulators**
-- uA7805
-- uA7833
+- uA78M05
+- uA78M33
 
 **EYR_Switches**
 - Rotatory Encoder Switch
 
-**EYR_Transistors**
-- FDS4435
-- IPD600N25N3G
+**EYR_Transistores**
+| Nro. Parte| Descripcion| Package | 
+| ----- | ---- | ---- |
+| FDS4435 | MOSFET canal P | SOIC8 |
+| IPD600N25N3G | MOSFET canal N | D2-PAK |
+|  |  |  |
 
 ***
 Puedes seguirme en:
