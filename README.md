@@ -27,9 +27,6 @@ Librerias creadas y editadas por MrChunckuee a conveniencia propia, si deseas sa
 |  |  |  |
 
 **EYR_Modules**
-- EK-TM4C123GXL Tiva C LaunchPack 
-- Bluetooth HC-05
-
 | Nro. Parte| Descripcion| Package | 
 | ----- | ---- | ---- |
 | EK-TM4C123GXL | Plantilla para BoosterPack de la stellaris |  |
