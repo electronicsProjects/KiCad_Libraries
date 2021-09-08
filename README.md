@@ -20,7 +20,7 @@ Librerias creadas y editadas por MrChunckuee a conveniencia propia, si deseas sa
 | IR4427 | Driver para MOSFET | SOIC-8 |
 |  |  |  |
 
-**EYR_Microchip.lbr**
+**EYR_Microchip**
 | Nro. Parte| Descripcion| Package | 
 | ----- | ---- | ---- |
 | PIC18F25K22 | Microcontrolador de 8 bits | SOIC-28, SSOP-28 |
