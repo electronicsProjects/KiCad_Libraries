@@ -1,8 +1,14 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP uA7805
-D Positive 1A 35V Linear Regulator, Fixed Output 5V, SOT-223
-K Voltage Regulator 1A Positive
+$CMP uA78M05
+D µA78Mxx Positive-Voltage Regulators
+K Voltage Regulator Positive
+F http://www.ti.com/lit/ds/symlink/ua78.pdf
+$ENDCMP
+#
+$CMP uA78M33
+D µA78Mxx Positive-Voltage Regulators
+K Voltage Regulator Positive
 F http://www.ti.com/lit/ds/symlink/ua78.pdf
 $ENDCMP
 #

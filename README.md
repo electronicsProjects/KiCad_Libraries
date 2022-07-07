@@ -5,30 +5,53 @@ Librerias creadas y editadas por MrChunckuee a conveniencia propia, si deseas sa
 
 ***
 ### Contenido de las librerias:
-**EYR_Conector Simbolos**
-- Terminal atornillable 2, 3 y 4 pines
-- Jack de alimentacion
+**EYR_Conectores**
+| Nro. Parte| Descripcion| Package | 
+| ----- | ---- | ---- |
+| Jack_ Alim | Conector jack |  |
+| Screw_Terminal_01x02 | Terminal atornillable de 2 pines |  |
+| Screw_Terminal_01x03 | Terminal atornillable de 3 pines |  |
+| Screw_Terminal_01x04 | Terminal atornillable de 4 pines |  |
+|  |  |  |
 
-**EYR_IntegratedCircuits**
-- IR4427
+**EYR_CircuitosIntegrados**
+| Nro. Parte| Descripcion| Package | 
+| ----- | ---- | ---- |
+| IR4427 | Driver para MOSFET | SOIC-8 |
+|  |  |  |
 
 **EYR_Microchip**
-- PIC18F25K22
+| Nro. Parte| Descripcion| Package | 
+| ----- | ---- | ---- |
+| PIC18F25K22 | Microcontrolador de 8 bits | SOIC-28, SSOP-28 |
+|  |  |  |
 
-**EYR_Modules**
-- EK-TM4C123GXL Tiva C LaunchPack 
-- Bluetooth HC-05
+**EYR_Modulos**
+| Nro. Parte| Descripcion| Package | 
+| ----- | ---- | ---- |
+| EK-TM4C123GXL | Plantilla para BoosterPack de la stellaris |  |
+| HC-05 | Modulo de bluetooth |  |
+|  |  |  |
 
-**EYR_Regulators**
-- uA7805
-- uA7833
+**EYR_Reguladores**
+| Nro. Parte| Descripcion| Package | 
+| ----- | ---- | ---- |
+| uA78M05 | Regulador de voltaje de 5V | SOT-223 |
+| uA78M33 | Regulador de voltaje de 3.3V | SOT-223 |
+|  |  |  |
 
 **EYR_Switches**
-- Rotatory Encoder Switch
+| Nro. Parte| Descripcion| Package | 
+| ----- | ---- | ---- |
+| Rotatory_Encoder_Switch | Encoder rotativo con switch |  |
+|  |  |  |
 
-**EYR_Transistors**
-- FDS4435
-- IPD600N25N3G
+**EYR_Transistores**
+| Nro. Parte| Descripcion| Package | 
+| ----- | ---- | ---- |
+| FDS4435 | MOSFET canal P | SOIC-8 |
+| IPD600N25N3G | MOSFET canal N | D2-PAK |
+|  |  |  |
 
 ***
 Puedes seguirme en:
@@ -37,4 +60,3 @@ Puedes seguirme en:
 - [Twitter](https://twitter.com/MrChunckuee)
 - [GitHub](https://github.com/MrChunckuee)
 - [YouTube](https://www.youtube.com/user/mrchunckueepsr)
-- [Google+](https://plus.google.com/u/0/+PedroSanchez-MrChunckuee)
